@@ -1,10 +1,11 @@
 
 ## Azure Devops CI/CD
 
-
 # 🚀 Azure DevOps CI/CD Pipeline for Maven-based Java Application with SonarQube + Trivy Scan and deployment on to Azure Kubernetes Multi-Node Cluster
 
-This project demonstrates a complete CI/CD setup using **Azure DevOps**, integrating:
+![alt text](AzDevops_CiCD_AKS_Java_Maven.gif)
+
+Demonstrates a complete CI/CD setup using **Azure DevOps**, integrating:
 - Self-hosted agent on Azure VM
 - Maven build automation
 - SonarQube for code quality
